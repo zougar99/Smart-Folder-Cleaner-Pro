@@ -49,8 +49,6 @@ Smart Folder Cleaner/
 │   └── backup_manager.py        # 💾 Backup & undo
 │
 └── 📂 FOLDERS:
-    ├── .cursor/                 # Cursor IDE settings
-    ├── .vscode/                 # VS Code settings
     └── tmp/                     # Temporary files
 ```
 
