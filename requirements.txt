@@ -1,0 +1,4 @@
+# PC File Organizer - Dependencies
+customtkinter>=5.2.0
+python-dotenv>=1.0.0
+openai>=1.0.0
